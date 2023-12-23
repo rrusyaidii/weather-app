@@ -34,3 +34,9 @@ To use the OpenWeatherMap API, you need to obtain an API key. Replace YOUR_API_K
 const apiKey = "YOUR_API_KEY";
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 ```
+
+## Screenshot
+
+![Screenshot 1](images/ss1.png)
+![Screenshot 2](images/ss2.png)
+![Screenshot 3](images/ss3.png)
